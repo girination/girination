@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/girination/girination/main/git1.png" alt="Girination banner" width="100%">
 </p>
 
-# 👋🏽 Hey there, I'm Clinton Giri — aka **Girination** 🧠💻
+# 👋🏽 Hey there, I'm Clinton Giri** 
 
 Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate about solving real-world problems through **software**, **AI**, and **mobile apps**.
 
@@ -23,12 +23,6 @@ Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate 
 ---
 
 ## 🚀 Projects
-
-### 📱 [MealMate](https://github.com/girination/MealMate)
-> An Android app for managing meals and shopping lists. Features Firebase login, recipe creation with images, and SMS-based task delegation.
-
-### 🧠 [Brain Stroke Predictor](https://github.com/girination/Brain-Stroke-Predictor)
-> A machine learning tool that predicts stroke risk using patient data with TensorFlow.
 
 ### 🎓 [ACA ERP Quiz App](https://github.com/girination/aca-erp2022-2-Quiz)
 > A practical university quiz project showcasing command-based logic and application structure.
