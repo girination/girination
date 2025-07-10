@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girination/girination/main/git.png" alt="Girination banner" width="100%">
+</p>
+
 # 👋🏽 Hey there, I'm Clinton Giri — aka **Girination** 🧠💻
 
-Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate about solving real-world problems through software, AI, and mobile apps.
+Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate about solving real-world problems through **software**, **AI**, and **mobile apps**.
 
 ---
 
@@ -19,36 +23,36 @@ Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate 
 ---
 
 ## 🚀 Projects
-Here are some of my key projects:
 
 ### 📱 [MealMate](https://github.com/girination/MealMate)
-> Android app for managing meals and shopping lists. Supports login, Firebase sync, recipe creation, image upload, and SMS-based delegation.
+> An Android app for managing meals and shopping lists. Features Firebase login, recipe creation with images, and SMS-based task delegation.
 
 ### 🧠 [Brain Stroke Predictor](https://github.com/girination/Brain-Stroke-Predictor)
-> ML-powered health tool that predicts risk of brain stroke using patient data and TensorFlow.
+> A machine learning tool that predicts stroke risk using patient data with TensorFlow.
 
 ### 🎓 [ACA ERP Quiz App](https://github.com/girination/aca-erp2022-2-Quiz)
-> A university project showcasing quiz functionality and command usage in a practical ERP scenario.
+> A practical university quiz project showcasing command-based logic and application structure.
 
 ---
 
 ## 🧠 Currently Learning
-- React JS & Next.js
+- React.js & Next.js
 - Advanced AI & Machine Learning
-- REST APIs & Full Stack Integration
-- UI/UX design principles
+- Full Stack Integration (REST APIs, Auth, Cloud)
+- UI/UX Design with Material Design principles
 
 ---
 
 ## 📬 Let's Connect
-- ✉️ **Email**: girination@gmail.com
-- 🌐 **LinkedIn**: [linkedin.com/in/girination](https://www.linkedin.com/in/girination)
-- 📷 **Instagram**: [@girination](https://www.instagram.com/bamegirry2023/)
+
+- ✉️ **Email**: [girination@gmail.com](mailto:girination@gmail.com)  
+- 🌐 **LinkedIn**: [linkedin.com/in/girination](https://www.linkedin.com/in/girination)  
+- 📷 **Instagram**: [@bamegirry2023](https://www.instagram.com/bamegirry2023/)  
 - 🧠 **Personal Motto**: _“Build it real, or don’t build it at all.”_
 
 ---
 
+## 📊 GitHub Stats
+
 ![Girination's GitHub stats](https://github-readme-stats.vercel.app/api?username=girination&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girination&layout=compact&theme=tokyonight)
-
-
