@@ -39,8 +39,8 @@ Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate 
 
 ## 📬 Let's Connect
 
-- ✉️ **Email**: [girination@gmail.com](mailto:girination@gmail.com)  
-- 🌐 **LinkedIn**: [linkedin.com/in/girination](https://www.linkedin.com/in/girination)  
+- ✉️ **Email**: [bamegirry@gmail.com](mailto:bamegirry@gmail.com)  
+- 🌐 **LinkedIn**: [linkedin.com/in/girination](https://www.linkedin.com/in/clinton-giri-7172241a0/)
 - 📷 **Instagram**: [@bamegirry2023](https://www.instagram.com/bamegirry2023/)  
 - 🧠 **Personal Motto**: _“Build it real, or don’t build it at all.”_
 
