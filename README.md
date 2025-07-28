@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/girination/girination/main/" alt="Girination banner" width="100%">
+  <img src="https://raw.githubusercontent.com/girination/girination/main/girib.png" alt="Girination banner" width="100%">
 </p>
 
 # 👋🏽 Hey there, I'm Clinton Giri** 
