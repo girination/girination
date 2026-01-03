@@ -2,19 +2,16 @@
   <img src="https://raw.githubusercontent.com/girination/girination/main/girib.png" alt="Girination banner" width="100%">
 </p>
 
-# 👋🏽 Hey there, I'm Clinton Giri** 
+#  Hey there, I'm Clinton Giri** 
 
 Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate about solving real-world problems through **software**, **AI**, and **mobile apps**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 <p>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -24,9 +21,6 @@ Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate 
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
