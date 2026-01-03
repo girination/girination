@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/girination/girination/main/girib.png" alt="Girination banner" width="100%">
 </p>
 
-#  Hey there, I'm Clinton Giri** 
+## Hey there, I'm Clinton Giri
 
 Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate about solving real-world problems through **software**, **AI**, and **mobile apps**.
 
@@ -42,14 +42,14 @@ Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🎓 [ACA ERP Quiz App](https://github.com/girination/aca-erp2022-2-Quiz)
+### [ACA ERP Quiz App](https://github.com/girination/aca-erp2022-2-Quiz)
 > A practical university quiz project showcasing command-based logic and application structure.
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 - React.js & Next.js
 - Advanced AI & Machine Learning
 - Full Stack Integration (REST APIs, Auth, Cloud)
@@ -57,16 +57,16 @@ Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate 
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-- ✉️ **Email**: [bamegirry@gmail.com](mailto:bamegirry@gmail.com)  
-- 🌐 **LinkedIn**: [linkedin.com/in/girination](https://www.linkedin.com/in/clinton-giri-7172241a0/)
-- 📷 **Instagram**: [@bamegirry2023](https://www.instagram.com/bamegirry2023/)  
-- 🧠 **Personal Motto**: _“Build it real, or don’t build it at all.”_
+-  **Email**: [bamegirry@gmail.com](mailto:bamegirry@gmail.com)  
+-  **LinkedIn**: [linkedin.com/in/girination](https://www.linkedin.com/in/clinton-giri-7172241a0/)
+-  **Instagram**: [@bamegirry2023](https://www.instagram.com/bamegirry2023/)  
+-  **Personal Motto**: “Build it real, or don’t build it at all.”
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Girination's GitHub stats](https://github-readme-stats.vercel.app/api?username=girination&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girination&layout=compact&theme=tokyonight)
