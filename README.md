@@ -4,7 +4,7 @@
 
 ## Hey there, I'm Clinton Giri
 
-Welcome to my GitHub! I'm a **Computer Systems Engineering student** passionate about solving real-world problems through **software**, **AI**, and **mobile apps**.
+Welcome to my GitHub! I'm a **Computer Systems Engineering graduate** passionate about solving real-world problems through **software**, **AI**, and **mobile apps**.
 
 ---
 
