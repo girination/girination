@@ -4,7 +4,7 @@
 
 ## Hey there, I'm Clinton Giri
 
-Welcome to my GitHub! I'm a **Computer Systems Engineering graduate**, **Co-Founder of Lebambi Tech**, and an **Odoo ERP Consultant**, passionate about building practical software, ERP, and SaaS solutions for the Botswana and SADC market.
+Welcome to my GitHub! I'm a **Computer Systems Engineering graduate**, **Co-Founder of Lebambi Tech**, and an **Odoo ERP Technical Developer**, passionate about building practical software, ERP, and SaaS solutions for the Botswana and SADC market.
 
 ---
 
